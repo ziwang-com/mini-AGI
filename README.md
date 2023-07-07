@@ -17,7 +17,7 @@ mini-AGI是zw-AGI的免费开源版本，删除了部分商务模块。
 ## 【已完成功能】
 * 10行代码，即可即复刻经典GPT开源项目：localGPT，privateGPT，
 * 单一py源码模块文件，实现langchain+prompt提示词+llm+矢量数据库+AGI(autoGPT,babyAGI) 80%功能。
-* 单一py源码模块文件，copy代码目录，直接import，无需安装。
+* 单文件模块源码，copy工作目录，直接import，无需安装。
 * 内置式原生矢量数据库，基于pandas，生态完整。
 * 准专利技术：zero-tokenin，从底层内核，智能监控输入文本
 * 从内核防止token输入溢出，解决llamacpp输入错误中断，24小时批量实测验证。

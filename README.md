@@ -1,7 +1,9 @@
 ## mini-AGI
+https://github.com/ziwang-com/mini-AGI
+
 简单实用的一站式AGI架构，内置原生矢量数据库，支持本地化LLM模型，agent，智能链chain
 mini-vec-gpt迷你矢量gpt，10行代码，即可完成langchain+llm+矢量数据库+AGI(autoGPT,babyAGI) 80%功能。
-https://github.com/ziwang-com/mini-AGI
+
 
 
 

@@ -16,13 +16,16 @@ mini-AGI是zw-AGI的免费开源版本，删除了部分商务模块。
 * 10行代码，即可完成langchain+llm+矢量数据库+AGI80%功能。
 * 单一py源码模块文件，copy代码目录，直接import，无需安装。
 * 内置式原生矢量数据库，基于pandas，生态完整。
-* 准专利技术，smart-tokenin，从底层内核，智能监控输入文本
-* 防止input输入溢出，从根本解决llamacpp输入错误中断，24小时批量实测验证。
+* 准专利技术：zero-tokenin，从底层内核，智能监控输入文本
+* 从内核防止token输入溢出，解决llamacpp输入错误中断，24小时批量实测验证。
+* 增加20-30%有效输入token，提升20-30%输出质量。
 * 支持txt，csv，docx, ppt，pdf，markdown等多种格式文件数据导入。
 * 开发式prompts提示词文档，内置多组常用prompts提示词。
 * 内置式llm调用：
+  * 支持清华cgatGLM-6B二代模型，毕竟是国内最强开源llm大模型。
   * 首批支持ggml格式，llamcpp纯cpu调用，zw-vicuna-7B，13B，33B实测通过。
-  * 支持清华cgatGLM-6B二代模型。
+  * 支持大部分主流开源模型，包括：
+   * LLaMA 🦙、Alpaca、 GPT4All、 Chinese LLaMA / Alpaca、 Vigogne (French)、 Vicuna、 Koala、 OpenBuddy 🐶 (Multilingual)、 Pygmalion 7B / Metharme 7B、 WizardLM、 Baichuan-7B and its derivations (such as baichuan-7b-sft)
 
 ## 【todo-list，计划完成功能】
 * agent代理

@@ -8,8 +8,7 @@ https://github.com/ziwang-com/miniAGI
 <img width="271" alt="mini-agi-logo" src="https://github.com/ziwang-com/miniAGI/assets/11691791/b1f9f547-205c-4c17-8f21-3ff834874ef0">
 
 
-miniAGI是zwAGI的免费开源版本，删除部分商务模块。
-* 
+miniAGI是zw-AGI的免费开源版本，删除了部分商务模块。
 * 10行代码，即可完成langchain+llm+矢量数据库+AGI80%功能。
 * 单一py源码模块文件，直接import。
 * 准专利技术，smart-tokenin，从底层内核，智能监控输入文本

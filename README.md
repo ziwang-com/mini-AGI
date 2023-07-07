@@ -24,8 +24,7 @@ mini-AGI是zw-AGI的免费开源版本，删除了部分商务模块。
 * 内置式llm调用：
   * 支持清华cgatGLM-6B二代模型，毕竟是国内最强开源llm大模型。
   * 首批支持ggml格式，llamcpp纯cpu调用，zw-vicuna-7B，13B，33B实测通过。
-  * 支持大部分主流开源模型，包括：
-   * LLaMA 🦙、Alpaca、 GPT4All、 Chinese LLaMA / Alpaca、 Vigogne (French)、 Vicuna、 Koala、 OpenBuddy 🐶 (Multilingual)、 Pygmalion 7B / Metharme 7B、 WizardLM、 Baichuan-7B and its derivations (such as baichuan-7b-sft)
+  * 支持大部分主流开源模型，包括：LLaMA 🦙、Alpaca、 GPT4All、 Chinese LLaMA / Alpaca、 Vigogne (French)、 Vicuna、 Koala、 OpenBuddy 🐶 (Multilingual)、 Pygmalion 7B / Metharme 7B、 WizardLM、 Baichuan-7B and its derivations (such as baichuan-7b-sft)
 
 ## 【todo-list，计划完成功能】
 * agent代理

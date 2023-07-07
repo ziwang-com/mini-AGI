@@ -7,10 +7,13 @@ https://github.com/ziwang-com/miniAGI
 
 <img width="271" alt="mini-agi-logo" src="https://github.com/ziwang-com/miniAGI/assets/11691791/b1f9f547-205c-4c17-8f21-3ff834874ef0">
 
-## 首个核心模块库：mini-vdb
-mini-vec-db 迷你矢量数据库，单一文件，支持txt，csv，docx, ppt等多种格式文件数据导入，mini-agi项目系列核心模块之一
-[https://github.com/ziwang-com/mini-vdb](https://github.com/ziwang-com/mini-vdb)
 
+miniAGI是zwAGI的免费开源版本，删除部分商务模块。
+* 
+* 10行代码，即可完成langchain+llm+矢量数据库+AGI80%功能。
+* 单一py源码模块文件，直接import。
+* 准专利技术，smart-tokenin，从底层内核，智能监控输入文本
+* 防止input输入溢出，从根本解决llamacpp输入错误中断，24小时批量实测验证。
+* 支持txt，csv，docx, ppt，pdf，markdown等多种格式文件数据导入。
 
-<img width="269" alt="mini-vdb1x" src="https://github.com/ziwang-com/mini-vdb/assets/11691791/7228c1d5-ca9e-4db4-bfa6-00a1b89c3c29">
-
+  

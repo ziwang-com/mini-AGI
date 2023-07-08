@@ -26,7 +26,7 @@ https://github.com/ziwang-com/zwAGI
 * 从内核防止token输入溢出，解决llamacpp输入错误中断，24小时批量实测验证。
 * 增加20-30%有效输入token，提升20-30%输出质量。
 * 支持：txt，csv，docx, ppt，pdf，markdown等，多种格式文件数据导入。
-* 开发式prompts提示词文档，内置多组常用prompts提示词。
+* 开放式prompts提示词文档，内置多组常用prompts提示词。
 * 内置式llm调用：
   * 支持清华cgatGLM-6B二代模型，毕竟是国内最强开源llm大模型。
   * 首批支持ggml格式，llamcpp纯cpu调用，zw-vicuna-7B，13B，33B实测通过。

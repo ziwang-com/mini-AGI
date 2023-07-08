@@ -7,11 +7,7 @@ https://github.com/ziwang-com/mini-AGI
 
 单一py源码模块文件，实现langchain+prompt提示词+llm+矢量数据库+AGI(autoGPT,babyAGI) 80%功能。
 
-
-
-
 <img width="271" alt="mini-agi-logo" src="https://github.com/ziwang-com/miniAGI/assets/11691791/b1f9f547-205c-4c17-8f21-3ff834874ef0">
-
 
 mini-AGI是zw-AGI的免费开源版本，删除了部分商务模块。
 

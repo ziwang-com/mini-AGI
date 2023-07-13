@@ -90,6 +90,8 @@ https://pan.baidu.com/s/1EH19ablXVLYQP1f-IaPS-Q?pwd=hiks
 
 如有更改，最新下载地址请参见: QQ群文件：655402626（GPT+千人QQ大群）
 
+<img width="276" alt="zw-ai-bd" src="https://github.com/ziwang-com/mini-AGI/assets/11691791/0693b97f-0150-44d8-8ea4-c0efd74d79b2">
+
 
 ## 【mini-agi迷你AGI懒人包】
 为方便大家使用，稍后会推出【mini-agi迷你AGI懒人包】。

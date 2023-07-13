@@ -13,6 +13,9 @@ mini-AGI是zw-AGI的免费开源版本，删除了部分商务模块。
 
 https://github.com/ziwang-com/zwAGI
 
+<img width="344" alt="magi-b4-spd- 2023-07-13 145402" src="https://github.com/ziwang-com/mini-AGI/assets/11691791/b2c9018e-9ec2-4c7a-bd8c-f9404e803a46">
+矢量数据转换，每秒300条数据，1分钟1.5w，每小时近百万条，中小企业足够了
+
 ## 【已完成功能】
 * 10行代码，即可即复刻经典GPT开源项目：localGPT，privateGPT，
 * 单一py源码模块文件，实现langchain+prompt提示词+llm+矢量数据库+AGI(autoGPT,babyAGI) 80%功能。

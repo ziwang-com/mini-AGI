@@ -81,6 +81,7 @@ VDB矢量数据库，采用标准pandas DataFrame格式。
 以上模型，可以在智王百度网盘下载，也可以自己在huggingface等网站下载。
 ## 【智王AI资源库】百度网盘提取码：hiks 
 https://pan.baidu.com/s/1EH19ablXVLYQP1f-IaPS-Q?pwd=hiks
+
 如有更改，最新下载地址请参见: QQ群文件：655402626（GPT+千人QQ大群）
 
 

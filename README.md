@@ -52,8 +52,8 @@ https://github.com/ziwang-com/zwAGI
 * mini_llm.py，ggml模型插件，支持zw-vicuan-7B/13B/33B中文汉化版，实测通过。
 * 安装llama-cpp-python模块库，需要c语言编译器。
 * 	具体细节参看：
-* 			https://github.com/ggerganov/llama.cpp
-* 			https://github.com/abetlen/llama-cpp-python
+https://github.com/ggerganov/llama.cpp
+https://github.com/abetlen/llama-cpp-python
 	
 
 ## 【QA查询demo示例程序】

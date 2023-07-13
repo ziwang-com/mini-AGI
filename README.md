@@ -33,6 +33,63 @@ https://github.com/ziwang-com/zwAGI
 * 。。。。。。
 
 
+
+## 【mini-agi模块库文件说明】
+* 迷你AGI结构很简单，单一python文件结构。保存在mini-xlib目录当中。
+* 大部分结构，代码，都是原创，强调工程实用性，约定优先。
+* 部分代码，参考了相关开源项目，在此表示感谢。
+
+## 【core核心文件说明】
+* mini_agi.py，模块库核心文件
+* prompt.yaml，提示词模板，字典格式，采用yaml文件保存，用户可以自己添加。
+
+## 【plungin插件说明】
+迷你AGI插件，也是采用单一py文件模式，简单明了。
+发布时，内置了3个插件案例源码，方便大家扩展。
+
+* mini_glm.py，清华chatGLM2-6B插件，支持国产llm项目。
+* mini_gpt.py，openAI-api接口插件，使用前自己在源码文件设置好网址，key密匙
+* mini_llm.py，ggml模型插件，支持zw-vicuan-7B/13B/33B中文汉化版，实测通过。
+* 安装llama-cpp-python模块库，需要c语言编译器。
+* 	具体细节参看：
+* 			https://github.com/ggerganov/llama.cpp
+* 			https://github.com/abetlen/llama-cpp-python
+	
+
+## 【QA查询demo示例程序】
+* tur001-qa.py，不到10行代码，完美复刻经典GPT开源项目：localGPT，privateGPT。
+* tur002-gpt.py，GPT3.5-api接口模式
+
+* tur03-llm.py，ggml模型文件调用，支持zw-vicuan-7B/13B/33B中文汉化版，实测通过。
+
+
+## 【VDB数据库生成demo示例程序】
+VDB矢量数据库，采用标准pandas DataFrame格式。
+数据库文件扩展名是pkl，存储采用的是feather格式。
+
+* tur011_db8fn.py，从csv文件生成vec矢量数据库
+* tur012_db8dir.py，从目录批量生成vec矢量数据库，支持子目录结构，支持多种文件格式，示例程序demo包括：doc，txt，pdf等多种格式
+
+## 【models模型文件说明】
+默认模型保存在libs目录下，
+
+* libs\all-MiniLM-L6-v2，文本矢量转换模型
+* libs\zw-v7cn.bin，智王zw-vicuna-13B-cn中文汉化版
+* libs\zw-v33cn.bin，智王zw-vicuna-33B-cn中文汉化版
+* libs\chatglm2-6b，清华ChatGLM2-6B模型
+
+以上模型，可以在智王百度网盘下载，也可以自己在huggingface等网站下载。
+## 【智王AI资源库】百度网盘提取码：hiks 
+https://pan.baidu.com/s/1EH19ablXVLYQP1f-IaPS-Q?pwd=hiks
+如有更改，最新下载地址请参见: QQ群文件：655402626（GPT+千人QQ大群）
+
+
+## 【mini-agi迷你AGI懒人包】
+为方便大家使用，稍后会推出【mini-agi迷你AGI懒人包】。
+集成了zw-GPT-studio智王GPT集成式python开发平台，基本模型库，解压即用。
+windows平台，需安装好cuda12.x运行环境。
+linux、mac-os，请用vbox等虚拟机模式加载。
+
   <img width="702" alt="gptx-3x1" src="https://github.com/ziwang-com/miniAGI/assets/11691791/1ac6ffbe-5b93-436c-9a4d-f54a02e6b62c">
 
 ## 【欢迎加盟】

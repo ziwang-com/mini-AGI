@@ -1,7 +1,7 @@
 ## mini-AGI 迷你AGI
 https://github.com/ziwang-com/mini-AGI
 
-简单实用的一站式AGI架构，内置原生矢量数据库，支持本地化LLM模型，agent，智能链chain，prompt提示词
+GPT+神器，简单实用的一站式AGI架构，内置原生矢量数据库，支持本地化LLM模型，agent，智能链chain，prompt提示词
 
 10行代码，即可复刻经典GPT开源项目：localGPT，privateGPT。
 

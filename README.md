@@ -18,9 +18,6 @@ https://github.com/ziwang-com/zwAGI
 * 单一py源码模块文件，实现langchain+prompt提示词+llm+矢量数据库+AGI(autoGPT,babyAGI) 80%功能。
 * 单文件模块源码，copy工作目录，直接import，无需安装。
 * 内置式原生矢量数据库，基于pandas，生态完整。
-* 准专利技术：zero-tokenin，从底层内核，智能监控输入文本
-* 从内核防止token输入溢出，解决llamacpp输入错误中断，24小时批量实测验证。
-* 增加20-30%有效输入token，提升20-30%输出质量。
 * 支持：txt，csv，docx, ppt，pdf，markdown等，多种格式文件数据导入。
 * 开放式prompts提示词文档，内置多组常用prompts提示词。
 * 内置式llm调用：

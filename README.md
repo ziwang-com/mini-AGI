@@ -32,6 +32,7 @@ https://github.com/ziwang-com/zwAGI
 * 开放式免费web搜索，免密匙
 * 。。。。。。
 
+![mini-agi-map](https://github.com/ziwang-com/mini-AGI/assets/11691791/7dc29564-b76d-44c9-9122-06e90a201e51)
 
 
 ## 【mini-agi模块库文件说明】
